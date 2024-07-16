@@ -62,7 +62,7 @@ nav a:hover {
 
 h2 {
     box-sizing: border-box;
-    padding-left: 15px;
+    padding-left: 10px;
     font-size: 20px;
     line-height: 30px;
     background-color: #03151F;
@@ -70,7 +70,7 @@ h2 {
 }
 
 #main_left img {
-    width: 300px;
+    width: 200px;
 }
 
 #main_left p {
